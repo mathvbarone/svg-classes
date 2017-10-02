@@ -1,0 +1,112 @@
+*{
+     margin:0;
+     padding:0;
+     box-sizing: border-box;
+}
+
+ .icon-html{
+     cursor: pointer;
+     width: 140px;
+     height: 200px;
+     fill: #e44f26;
+}
+
+.icon-css{
+     cursor: pointer;
+     width: 140px;
+     height: 200px;
+     fill: #0091c0;
+}
+
+.icon-js{
+     cursor: pointer;
+     width: 200px;
+     height: 200px;
+     fill: #F7DF1E;
+}
+
+
+
+.icon-git{
+     cursor: pointer;
+     width: 200px;
+     height: 200px;
+     fill: #DE4C36;
+}
+
+.icon-code{
+     cursor: pointer;
+     width: 200px;
+     height: 200px;
+     fill: #cd2b46;
+}
+
+.icon-uxui{
+     cursor: pointer;
+     width: 200px;
+     height: 200px;
+     fill: #cd2b46;
+}
+
+
+.icon-ideas{
+     cursor: pointer;
+     width: 200px;
+     height: 200px;
+     fill: #cd2b46;
+}
+
+.icon-github{
+     cursor: pointer;
+     width: 200px;
+     height: 200px;
+     fill: #1D1C15;
+}
+
+.icon-fb{
+     cursor: pointer;
+     width: 200px;
+     height: 200px;
+     fill: #3b5998;
+}
+
+.icon-tt{
+     cursor: pointer;
+     width: 200px;
+     height: 200px;
+     fill: #77AADB;
+}
+
+.icon-jquery{
+     cursor: pointer;
+     width: 200px;
+     height: 170px;
+     fill: #000;
+}
+
+.icon-jekyll{
+     cursor: pointer;
+     width: 200px;
+     height: 80px;
+     fill: #000;
+}
+
+.icon-gulp{
+     cursor: pointer;
+     width: 90px;
+     height: 200px;
+     fill: #D34A47;
+}
+
+
+.icon-sass{
+     cursor: pointer;
+     width: 200px;
+     height: 150px;
+     fill: #cd669a;
+}
+
+
+
+
+
